@@ -1,0 +1,25 @@
+body{
+    font-family: "Open Sans",sans-serif;
+    color: darkkhaki;
+
+}
+h1{
+     color: chocolate;
+     background-color: azure;
+}
+img{
+    height: 100px;
+    text-align: left;
+}
+figcaption span{
+font-size: 1.5em;
+}
+p#product-description{
+   margin: 40px 0  40px 0;
+   text-align: justify; 
+}
+div.review{
+    padding: 30px;
+    background-color: #eee;
+    margin: 40px 0  40px 0;
+}
